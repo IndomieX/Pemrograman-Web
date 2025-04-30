@@ -1,0 +1,40 @@
+/* Gaya dasar halaman */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  /* Nama kamu - latar biru dongker dan teks putih */
+  .nama {
+    background-color: #003366; /* biru dongker */
+    color: white;
+    font-size: 28px;
+    padding: 6px;
+  }
+  
+  /* NIM kamu - teks biru gelap */
+  .nim {
+    font-size: 24px;
+    color: #002244;
+    margin-top: 10px;
+  }
+  
+  /* Kata dengan latar biru */
+  .biru {
+    background-color: #3366ff;
+    color: white;
+    font-style: italic;
+  }
+  
+  /* Kata dengan latar kuning */
+  .kuning {
+    background-color: yellow;
+    font-style: italic;
+  }
+  
+  /* Judul link YouTube */
+  h3 {
+    margin-top: 30px;
+    font-size: 18px;
+  }
+  
